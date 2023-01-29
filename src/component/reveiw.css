@@ -1,0 +1,32 @@
+article{
+border: 1px solid aqua;
+box-shadow: 2px 2px 10px aqua;
+}
+.reveiw{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 70px;
+    max-width: 320px;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px aqua;
+   
+}
+.title{
+}
+footer{
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+}
+.color{
+    color:aqua;
+
+}
